@@ -1,0 +1,11 @@
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.deps.json
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfoInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfo.cs
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\refint\Tarker.Booking.Domain.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\ref\Tarker.Booking.Domain.dll

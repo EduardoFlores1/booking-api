@@ -1,0 +1,12 @@
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net8.0\Tarker.Booking.External.deps.json
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net8.0\Tarker.Booking.External.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net8.0\Tarker.Booking.External.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.AssemblyInfoInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.AssemblyInfo.cs
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.csproj.CoreCompileInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\refint\Tarker.Booking.External.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\ref\Tarker.Booking.External.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.csproj.AssemblyReference.cache

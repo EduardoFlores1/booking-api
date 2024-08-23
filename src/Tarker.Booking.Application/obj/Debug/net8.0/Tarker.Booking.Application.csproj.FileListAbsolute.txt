@@ -1,0 +1,15 @@
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.deps.json
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfo.cs
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\refint\Tarker.Booking.Application.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\ref\Tarker.Booking.Application.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+E:\Proyectos GIT\net\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CopyComplete
