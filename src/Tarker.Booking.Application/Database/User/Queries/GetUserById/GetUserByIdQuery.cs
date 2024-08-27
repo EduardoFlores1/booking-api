@@ -15,7 +15,8 @@ namespace Tarker.Booking.Application.Database.User.Queries.GetUserById
 
         public async Task<GetUserByIdModel> Execute(int userId)
         {
-            var entity = await _databaseService.User.FirstOrDefaultAsync(x => x.UserId == userId);
+            var entity = await _databaseService.User
+                .FirstOrDefaultAsync(x => x.UserId == userId);
             return _mapper.Map<GetUserByIdModel>(entity);
         }
     }
