@@ -64,8 +64,8 @@ namespace Tarker.Booking.Api.Controllers
                 ResponseApiService.Response(StatusCodes.Status400BadRequest, data, "Error al eliminar usuario"));
             
             return StatusCode(
-            StatusCodes.Status404NotFound,
-            ResponseApiService.Response(StatusCodes.Status404NotFound, data, "Usuario eliminado exitosamente"));
+            StatusCodes.Status204NoContent,
+            ResponseApiService.Response(StatusCodes.Status204NoContent, data, "Usuario eliminado exitosamente"));
            
         }
 
@@ -75,10 +75,10 @@ namespace Tarker.Booking.Api.Controllers
         {
             var data = await getAllUserQuery.Execute();
 
-            if (data == null || data.Count == 0)
+            if (data.Count == 0)
                 return StatusCode(
-                StatusCodes.Status404NotFound,
-                ResponseApiService.Response(StatusCodes.Status404NotFound, data, "Sin datos"));
+                StatusCodes.Status204NoContent,
+                ResponseApiService.Response(StatusCodes.Status204NoContent, data, "Sin registros"));
 
             return StatusCode(
             StatusCodes.Status200OK,
@@ -93,7 +93,7 @@ namespace Tarker.Booking.Api.Controllers
         {
             var data = await getUserByIdQuery.Execute(userId);
 
-            if (data == null)
+            if (data is null)
                 return StatusCode(
                 StatusCodes.Status404NotFound,
                 ResponseApiService.Response(StatusCodes.Status404NotFound, data, "Usuario no encontrado"));
@@ -111,7 +111,7 @@ namespace Tarker.Booking.Api.Controllers
         {
             var data = await getUserByUsernameAndPasswordQuery.Execute(username, password);
 
-            if (data == null)
+            if (data is null)
                 return StatusCode(
                 StatusCodes.Status404NotFound,
                 ResponseApiService.Response(StatusCodes.Status404NotFound, data, "Usuario no encontrado"));
